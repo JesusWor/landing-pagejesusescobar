@@ -120,21 +120,18 @@ export const dataCounter = [
 export const serviceData = [
     {
         icon: <Pencil />,
-        title: "Diseño web",
+        title: "Diseño de paginas web",
         description: "Diseño creativo y profesional de interfaces web intuitivas y atractivas, centradas en la experiencia del usuario",
-        price: "$1,000 - $3,000 MXN ($60 - $170 USD)",
     },
     {
         icon: <Computer />,
-        title: "Desarrollo web",
+        title: "Desarrollo de paginas web",
         description: "Diseño y desarrollo de sitios web a medida, adaptados a tus necesidades",
-        price: "$2,500 - $6,000 MXN ($140 - $350 USD)",
     },
     {
         icon: <Book />,
-        title: "Implementación de sitios responsivos",
+        title: "Métodos responsivos",
         description: "Adapto tu sitio web para que funcione perfectamente en dispositivos móviles, tablets y computadoras.",
-        price: "$700 - $1500 MXN ($40 - $80 USD)",
     }
 ];
 
