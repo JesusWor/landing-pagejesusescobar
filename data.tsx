@@ -60,21 +60,21 @@ export const dataAboutPage = [
         id: 2,
         title: "Estudiante de ITC en el Tecnológico de Monterrey",
         subtitle: "",
-        description: "Actualmente cursando la carrera de Ingeniería en Tecnologías Computacionales en el Tecnológico de Monterrey. Enfocado en el desarrollo web y software.",
+        description: "Actualmente estoy cursando la carrera de Ingeniería en Tecnologías Computacionales en el Tecnológico de Monterrey. Enfocado en el desarrollo web y software.",
         date: "Ago 2023 - Presente",
     },
     {
         id: 3,
         title: "Desarrollador Web - Proyecto escolar 'Pagina web con diseño responsive para invernadero'",
         subtitle:"",
-        description:"Creé una pagina web con un diseño responsice el cual permitia a los usuairo de diferentes dispositocs entrar en l pagina y ver la información de maner clara además de que mostraba los datos en el momento del invernadero y podra prender los diferentes actadores como un ventilador, una lamapara, y un sistema de riego",
+        description:"Creé una pagina web con un diseño responsive el cual permitia a los usuarios que usan diferentes dispositivos entrar en la pagina y ver la información de manera clara, además de que mostraba los datos en el momento del invernadero y podra usar los diferentes actuadores como un ventilador, una lamapara, y un sistema de riego",
         date:"Sep 2024 - Nov 2024"
     },
     {
         id: 4,
         title: "Desarrollador Web - Proyecto 'Aplicación de listas de tareas'",
         subtitle: "",
-        description: "Creé una aplicación de listas de tareas usando React, TailwindCSS y Firebase. Implementé funciones de CRUD y mejoré la experiencia de usuario con animaciones e interactividad.",
+        description: "Desarrollé una aplicación de listas de tareas usando React.JS, TailwindCSS. Implementé funciones de CRUD y mejoré la experiencia de usuario con animaciones e interactividad.",
         date: "Dec 2025",
     },
     {
