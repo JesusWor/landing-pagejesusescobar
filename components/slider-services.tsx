@@ -24,8 +24,6 @@ const SliderServices = () => {
             <div>
               <h3 className="mb-2 text-lg font-semibold">{item.title}</h3>
               <p className="text-sm line-clamp-3">{item.description}</p> 
-              {/* Agregamos `line-clamp-3` para limitar la cantidad de líneas */}
-              <p className="mt-2 text-sm font-bold text-secondary">{item.price}</p>
             </div>
           </div>
         </SwiperSlide>
