@@ -29,7 +29,7 @@ const Introduction = () => {
                         />
                     </h1>
 
-                    <p className="mx-auto mb-2 text-40px md:mx-0 md:mb-8 text-justify">
+                    <p className="mx-auto mb-2 text-[18px] md:mx-0 md:mb-8 text-justify">
                         Como estudiante de ingenieria en tecnologias computacionales del tecnologico de monterrey siempre estoy buscando como expandir mis capacidades y seguir avanzando por cuenta propia tomando diversoso, investigando y elaborando distintos proyectos para desarrollar mejor mis habilidades, ademas he participado en distintos eventos culturales y deportivos siendo el capitan del equipo de basquet de mi preparatoria y el pianista del Tec de Monterrey en campus Sinaloa
                     </p>
 
