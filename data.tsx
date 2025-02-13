@@ -67,7 +67,7 @@ export const dataAboutPage = [
         id: 3,
         title: "Desarrollador Web - Proyecto escolar 'Pagina web con diseño responsive para invernadero'",
         subtitle:"",
-        description:"Creé una pagina web con un diseño responsive el cual permitia a los usuarios que usan diferentes dispositivos entrar en la pagina y ver la información de manera clara, además de que mostraba los datos en el momento del invernadero y podra usar los diferentes actuadores como un ventilador, una lamapara, y un sistema de riego",
+        description:"Creé una pagina web con un diseño responsive el cual permitia a los usuarios que usan diferentes dispositivos entrar en la pagina y ver la información de manera clara, además de que mostraba los datos en el momento del invernadero y podra usar los diferentes actuadores como un ventilador, una lamapara, y un sistema de riego, ademas de que hacia consultas en una base de datos y se utilizaron tecnologías como PHP, HTML, CSS, JS, Python y Flask",
         date:"Sep 2024 - Nov 2024"
     },
     {
