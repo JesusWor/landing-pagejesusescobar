@@ -10,40 +10,42 @@ const Introduction = () => {
             <div className="z-20 grid items-center h-full p-6 py-20 md:py-0 md:grid-cols-2">
                 <Image src="/home-4.png" priority width="250" height="450" alt="Profile pic" className="m-auto" />
                 <div className="flex flex-col justify-center max-w-md">
-                    <h1 className="mb-5 text-2xl leading-tight text-center md:text-left md:text4xl md:mb-10">Si puedes imaginarlo,
+                    <h1 className="mb-5 text-2xl leading-tight text-center md:text-left md:text4xl md:mb-10">
+                        If you can imagine it,
                         <TypeAnimation
                         sequence={[
-                            "puedes codificarlo",
+                            "you can code it",
                             1000,
-                            "puedes construirlo",
+                            "you can build it",
                             1000,
-                            "puedes diseñarlo",
+                            "you can design it",
                             1000,
-                            "puedes hacerlo realidad",
-                            1000
-                        ]} 
-                       wrapper="span"
-                       speed={50}
-                       repeat={Infinity}
-                       className="block font-bold text-secondary" 
+                            "you can make it real",
+                            1000,
+                        ]}
+                        wrapper="span"
+                        speed={50}
+                        repeat={Infinity}
+                        className="block font-bold text-secondary"
                         />
                     </h1>
 
+
                     <p className="mx-auto mb-2 text-[18px] md:mx-0 md:mb-8 text-justify">
-                        Como estudiante de ingenieria en tecnologias computacionales del tecnologico de monterrey siempre estoy buscando como expandir mis capacidades y seguir avanzando por cuenta propia tomando diversoso, investigando y elaborando distintos proyectos para desarrollar mejor mis habilidades, ademas he participado en distintos eventos culturales y deportivos siendo el capitan del equipo de basquet de mi preparatoria y el pianista del Tec de Monterrey en campus Sinaloa
+                        As a student of computer technology engineering at the Tecnológico de Monterrey, I am always looking to expand my capabilities and continue advancing on my own, taking on diverse subjects, researching and developing different projects to better develop my skills. I have also participated in different cultural and sporting events, being the captain of my high school's basketball team and the pianist for the Tec de Monterrey Sinaloa campus.
                     </p>
 
                     <div className="flex items-center justify-center gap-3 md:justify-start md:gab-10">
                         <Link 
                         href="/portfolio" 
                         className="px-3 py-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
-                            Ver proyectos
+                            Projects
                         </Link>
 
                         <Link 
                         href="https://wa.me/+526671774365" 
                         className="px-3 py-2 transition-all border-2 cursor-pointer text-secondary border-secondary text-md w-fit rounded-xl hover:shadow-xl hover:shadow-secondary">
-                            Contacta conmigo
+                            Contact me
                         </Link>
                     </div>
                 </div>

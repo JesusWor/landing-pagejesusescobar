@@ -51,38 +51,38 @@ export const itemsNavbar = [
 export const dataAboutPage = [
     {
         id: 1,
-        title: "Egresado del CBTis #244",
+        title: "Graduated of CBTis #244",
         subtitle: "",
-        description: "Egresado de la preparatoria técnica de CBTis #244 en la generación 2020-2023 de la carrera técnica de Programación.",
-        date: "Ago 2020 - Jun 2023",
+        description: "Graduate of the CBTis #244 technical high school in the 2020-2023 generation of the technical career in Programming.",
+        date: "Agu 2020 - Jun 2023",
     },
     {
         id: 2,
-        title: "Estudiante de ITC en el Tecnológico de Monterrey",
+        title: "Student of B.S. in Computer Science and Technology in Tecnológico de Monterrey",
         subtitle: "",
-        description: "Actualmente estoy cursando la carrera de Ingeniería en Tecnologías Computacionales en el Tecnológico de Monterrey. Enfocado en el desarrollo web y software.",
-        date: "Ago 2023 - Presente",
+        description: "I'm currently studying Computer Engineering at the Monterrey Institute of Technology. I'm focused on web and software development.",
+        date: "Agu 2023 - Presente",
     },
     {
         id: 3,
-        title: "Desarrollador Web - Proyecto escolar 'Pagina web con diseño responsive para invernadero'",
+        title: "Web Developer - School Project 'Pagina web con diseño responsive para invernadero'",
         subtitle:"",
-        description:"Creé una pagina web con un diseño responsive el cual permitia a los usuarios que usan diferentes dispositivos entrar en la pagina y ver la información de manera clara, además de que mostraba los datos en el momento del invernadero y podra usar los diferentes actuadores como un ventilador, una lamapara, y un sistema de riego, ademas de que hacia consultas en una base de datos y se utilizaron tecnologías como PHP, HTML, CSS, JS, Python y Flask",
+        description:"I created a website with a responsive design which allowed users using different devices to enter the page and see the information clearly, in addition to showing the data at the time of the greenhouse and being able to use the different actuators such as a fan, a lamp, and an irrigation system, in addition to making queries in a database and using technologies such as PHP, HTML, CSS, JS, Python and Flask",
         date:"Sep 2024 - Nov 2024"
     },
     {
         id: 4,
-        title: "Desarrollador Web - Proyecto 'Aplicación de listas de tareas'",
+        title: "Web Developer - Project 'Aplicación de listas de tareas'",
         subtitle: "",
-        description: "Desarrollé una aplicación de listas de tareas usando React.JS, TailwindCSS. Implementé funciones de CRUD y mejoré la experiencia de usuario con animaciones e interactividad.",
+        description: "I developed a to-do list app using React.JS and Tailwind CSS. I implemented CRUD features and enhanced the user experience with animations and interactivity.",
         date: "Dec 2025",
     },
     {
         id: 5,
-        title: "Desarrollo de una pagina de juegos",
+        title: "Development of a games page",
         subtitle: "",
-        description: "Desarrolle una pagina que contiene diversos juegos clasiscos de mesa como el Tic-Tac-Toe, conecta4, Wordle, etc. Esta pagina esta diseñada con el framework React.JS ademas de cuenta con un diseño responsive.",
-        date: "Ene 2025 - Presente"
+        description: "I developed a page that contains various classic board games such as Tic-Tac-Toe, Connect4, Wordle, etc. This page is designed with the React.JS framework and also has a responsive design.",
+        date: "Ene 2025 - Present"
     }
 ];
 
@@ -120,25 +120,25 @@ export const dataCounter = [
 export const serviceData = [
     {
         icon: <Pencil />,
-        title: "Diseño de paginas web",
-        description: "Diseño creativo y profesional de interfaces web intuitivas y atractivas, centradas en la experiencia del usuario",
+        title: "Web page design",
+        description: "Creative and professional design of intuitive and attractive web interfaces, focused on user experience",
     },
     {
         icon: <Computer />,
-        title: "Desarrollo de paginas web",
-        description: "Diseño y desarrollo de sitios web a medida, adaptados a tus necesidades",
+        title: "Web page development",
+        description: "Custom website design and development tailored to your needs",
     },
     {
         icon: <Book />,
-        title: "Métodos responsivos",
-        description: "Adapto tu sitio web para que funcione perfectamente en dispositivos móviles, tablets y computadoras.",
+        title: "Responsive methods",
+        description: "Adapt your website to work perfectly on mobile devices, tablets, and computers.",
     }
 ];
 
 export const dataPortfolio = [
     {
         id: 1,
-        title: "Formulario",
+        title: "Form",
         image: "/image-1.jpg",
         urlGithub: "https://github.com/JesusWor/Proyectos/tree/main/Form",
         urlDemo: "https://quiet-fudge-bfc7c4.netlify.app",
@@ -152,14 +152,14 @@ export const dataPortfolio = [
     },
     {
         id: 3,
-        title: "Sitio de juegos",
+        title: "Video games Webpage",
         image: "/image-3.jpg",
         urlGithub: "https://github.com/JesusWor/Proyectos/tree/main/juegos",
         urlDemo: "https://juegosde1-2jugadores.pages.dev/",
     },
     {
         id: 4,
-        title: "Agenda de tareas",
+        title: "Task manager",
         image: "/image-4.jpg",
         urlGithub: "https://github.com/JesusWor/Proyectos/tree/main/task-assignaments",
         urlDemo: "https://task-assignament.pages.dev/",
