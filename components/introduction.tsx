@@ -32,7 +32,7 @@ const Introduction = () => {
 
 
                     <p className="mx-auto mb-2 text-[18px] md:mx-0 md:mb-8 text-justify">
-                        As a student of computer technology engineering at the Tecnológico de Monterrey, I am always looking to expand my capabilities and continue advancing on my own, taking on diverse subjects, researching and developing different projects to better develop my skills. I have also participated in different cultural and sporting events, being the captain of my high school's basketball team and the pianist for the Tec de Monterrey Sinaloa campus.
+                        As a student of computer technology engineering at the Tecnológico de Monterrey, I am always looking to expand my capabilities and continue advancing on my own, taking on diverse subjects, researching and developing different projects to better develop my skills. I have also participated in different cultural and sporting events, being the captain of my high schools basketball team and the pianist for the Tec de Monterrey Sinaloa campus.
                     </p>
 
                     <div className="flex items-center justify-center gap-3 md:justify-start md:gab-10">
