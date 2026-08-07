@@ -1,0 +1,42 @@
+[
+  {
+    "id": "01",
+    "title": "Greenhouse Website",
+    "description": "Sitio web responsivo para invernadero con panel de control, monitoreo de sensores y reportes generados con Python + Flask.",
+    "tags": ["PHP", "Python", "Flask", "HTML", "CSS", "JS"],
+    "demo": null,
+    "github": "https://github.com/JesusWor",
+    "accent": "#00d4ff",
+    "year": "2023"
+  },
+  {
+    "id": "02",
+    "title": "Tetris",
+    "description": "Versión web del clásico Tetris con lógica de colisiones, sistema de puntuación progresivo y controles de teclado nativos.",
+    "tags": ["React", "TypeScript", "Tailwind CSS"],
+    "demo": "https://landing-pagejesus.netlify.app/",
+    "github": "https://github.com/JesusWor",
+    "accent": "#00ff88",
+    "year": "2024"
+  },
+  {
+    "id": "03",
+    "title": "Task Manager",
+    "description": "Gestor de tareas con CRUD completo, filtros por estado y persistencia local. Interfaz limpia y minimalista.",
+    "tags": ["React.js", "Tailwind CSS", "LocalStorage"],
+    "demo": "https://landing-pagejesus.netlify.app/",
+    "github": "https://github.com/JesusWor",
+    "accent": "#00d4ff",
+    "year": "2024"
+  },
+  {
+    "id": "04",
+    "title": "Video Games Webpage",
+    "description": "Plataforma de juegos clásicos en el navegador: Tic-Tac-Toe, Connect 4 y Wordle implementados desde cero en React.",
+    "tags": ["React.js", "JavaScript", "CSS"],
+    "demo": "https://landing-pagejesus.netlify.app/",
+    "github": "https://github.com/JesusWor",
+    "accent": "#00ff88",
+    "year": "2024"
+  }
+]
