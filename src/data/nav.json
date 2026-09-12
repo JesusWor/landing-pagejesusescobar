@@ -1,8 +1,0 @@
-[
-  { "label": "Inicio",      "href": "#hero" },
-  { "label": "Sobre mí",   "href": "#about" },
-  { "label": "Habilidades","href": "#skills" },
-  { "label": "Proyectos",  "href": "#projects" },
-  { "label": "Servicios",  "href": "#services" },
-  { "label": "Contacto",   "href": "#contact" }
-]
