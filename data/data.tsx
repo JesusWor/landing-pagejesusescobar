@@ -141,7 +141,7 @@ export const dataProjects: Project[] = [
     ],
     image: "/AlgorithmVisualizer.png",
     urlGithub: "https://github.com/JesusWor/AlgorithmVisualizer",
-    urlDemo: "https://algorithmvisulizer.netlify.app/",
+    urlDemo: "https://algorithm.jesusprogram.dev/",
     status: "live",
   },
   {
